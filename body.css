@@ -1,35 +1,4 @@
-body {
-	background-color:lightyellow;
-	color: #598987;
-}
-h1	 {
-	color:#5a5158
-
-}  
-p     {
-	color: #737172;
-}
-
-h2	{
-	color:#787cb9;
-}
-
-aside {
-	background-color:#e5e4fb;
-}
-
-h2{ 
-    text-align:center;
-}
-nav{
-	text-align:center;
-}
-main{
-	text-align:left;
-}
-aside{
-	text-align:left;
-}
-h3{ 
-    text-align:center;
+body{background-image: url(%E9%BB%9E%E5%BF%83.png);}
+dl{background-color:#B8B8DC;
+    font-size:150%;
 }
