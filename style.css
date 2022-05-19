@@ -19,10 +19,9 @@ nav{background-color:lightgoldenrodyellow;
 }
 aside{background-color:lightblue;
     font-size: 22px;
-    font-weight: normal;
-    margin: 0;
-    text-align: left;
-    width: 300px;
+}
+h2{font-size: 30px;
+    text-align: center;
 }
 footer{background-color:lightblue;
        font-size:20px;
@@ -31,4 +30,3 @@ background-color:lightgoldenrodyellow;
     padding:2cm 2cm;
     text-align:center;
     font-size:20px;
-
