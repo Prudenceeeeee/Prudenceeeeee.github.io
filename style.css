@@ -7,28 +7,9 @@ h1{ background-color:lightgoldenrodyellow;
     font-size:70px;
 }
 body{background-image: url(%E9%BB%9E%E5%BF%83.png);}
-p{background-color:#FFC1E0;
+p{background-color:#FFC1E0;font-size:22px;text-align:center;
 }
 header{font-size:20px;
        margin-top:2cm;
 }
-nav{background-color:lightgoldenrodyellow;
-    padding:2cm 2cm;
-    text-align:center;
-    font-size:25px;
-}
-aside{background-color:lightblue;
-    font-size: 22px;
-}
-h2{font-size: 30px;
-    text-align: center;
-}
-footer{background-color:lightblue;
-       font-size:20px;
-}
-background-color:lightgoldenrodyellow;
-    padding:2cm 2cm;
-    text-align:center;
-    font-size:20px;
-li{list-style:none;
-}
+div{background-color: antiquewhite;font-size:30px;text-align:center;margin: 3cm 3cm}
