@@ -1,4 +1,26 @@
-h1{background-color:beige;font-size:50px;text-align:center;margin:3cm 3cm;}
-section{background-color:beige;font-size:25px;margin:2cm 2cm;}
-body{background-image: url(%E9%BB%9E%E5%BF%83.png);}
-ul{list-style:none;background-color:beige;font-size:25px;text-align:center;margin:2cm 2cm;}
+h1{ background-color:beige;
+    font-size:50px;
+    text-align:center;
+    margin:3cm 3cm;
+    margin-bottom:1cm;
+}
+section{ background-color:beige;
+    font-size:25px;
+    margin:2cm 2cm;
+    margin-top:1cm;
+     margin-bottom:1cm;
+}
+body{ background-image: url(%E9%BB%9E%E5%BF%83.png);
+}
+ul{ list-style:none;
+    background-color:beige;
+    font-size:25px;
+    text-align:center;
+    margin:2cm 2cm;
+}
+h2{ font-size:25px;
+   background-color:beige ;
+   margin: 15cm 15cm;
+   margin-top: 0.5cm;
+   margin-bottom: 0.5cm;
+   text-align: center;
