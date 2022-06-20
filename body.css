@@ -14,7 +14,9 @@ h2{ font-size:25px;
 h1{
     font-size:40px;
     background-color: lightblue;
-    margin-right:30cm;
+    margin:15cm 15cm;
+    margin-top:0.5cm;
+    margin-bottom:0.5cm;
     text-align: center;
     color:lightgoldenrodyellow
 }
